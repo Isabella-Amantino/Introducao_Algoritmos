@@ -19,7 +19,7 @@ programa
 		leia(anoAtual)
 
 		dia = (diaAtual - dia)*1
-		mes = (mesAtual - mes)*31
+		mes = (mesAtual - mes)*30
 		ano = (anoAtual - ano)*365
 	
 		Total_dias = dia+mes+ano
@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 559; 
+ * @POSICAO-CURSOR = 486; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
