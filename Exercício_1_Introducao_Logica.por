@@ -3,7 +3,9 @@ programa
 	inclua biblioteca Calendario
 	
 	funcao inicio()
-	{inteiro dia, diaAtual, mes, mesAtual, ano, anoAtual, Total_dias
+	{
+		//Exercício 1 - Introdução a Lógica
+		inteiro dia, diaAtual, mes, mesAtual, ano, anoAtual, Total_dias
 
 		escreva("\nDia de Nascimento: ")
 		leia(dia)
@@ -36,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 486; 
+ * @POSICAO-CURSOR = 100; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
